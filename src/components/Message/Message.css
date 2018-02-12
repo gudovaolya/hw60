@@ -1,0 +1,19 @@
+.message-item{
+    margin-bottom: 20px;
+}
+.message-card{
+    -webkit-box-shadow: 0px 3px 3px 0px rgba(50, 50, 50, 0.5);
+    -moz-box-shadow:    0px 3px 3px 0px rgba(50, 50, 50, 0.5);
+    box-shadow:         0px 3px 3px 0px rgba(50, 50, 50, 0.5);
+}
+.card-bot{
+    font-size: 13px;
+    color: #777;
+    text-align: right;
+}
+.message-author{
+    margin: 0 0 5px;
+}
+.message-date{
+    margin: 0;
+}
